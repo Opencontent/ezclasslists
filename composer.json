@@ -1,0 +1,19 @@
+{
+    "name": "dpobel/ezclasslists-ls",
+    "description": "Adds a tab in the Administration Interface that lists objects by content class and lets you quickly edit or delete them. ",
+    "type": "ezpublish-legacy-extension",
+    "authors": [        
+        {
+            "name": "Damien Pobel",
+            "homepage": "http://projects.ez.no/ezclasslists"
+        }
+    ],
+    "license": "GPL-2.0",    
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "ezclasslists"
+    }
+}
